@@ -1,2 +1,0 @@
-# testgitio
-theme: time-machine
